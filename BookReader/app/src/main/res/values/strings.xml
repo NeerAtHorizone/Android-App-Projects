@@ -1,0 +1,146 @@
+<resources>
+    <string name="app_name">Book Reader</string>
+
+    <string name="book_nineteeneightyfour">1984</string>
+    <string name="about_book_nineteeneightyfour">A chilling novel about a totalitarian regime where Big Brother watches everything.</string>
+
+    <string name="book_the_alchemist">The Alchemist</string>
+    <string name="about_book_the_alchemist">A story about following dreams and personal legends through the journey of Santiago.</string>
+
+    <string name="book_to_kill_a_mockingbird">To Kill a Mockingbird</string>
+    <string name="about_book_to_kill_a_mockingbird">A powerful story about racism, morality, and justice in the American South.</string>
+
+    <string name="book_the_hobbit">The Hobbit</string>
+    <string name="about_book_the_hobbit">A thrilling journey of Bilbo Baggins as he helps dwarves reclaim their homeland.</string>
+
+    <string name="book_frankenstein">Frankenstein</string>
+    <string name="about_book_frankenstein">A scientist creates life, only to regret his actions when his creature turns against him.</string>
+
+    <string name="book_pride_and_prejudice">Pride and Prejudice</string>
+    <string name="about_book_pride_and_prejudice">A witty and romantic tale of love, class, and misunderstandings in 19th-century England.</string>
+
+    <string name="book_one_hundred_years_of_solitude">One Hundred Years of Solitude</string>
+    <string name="about_book_one_hundred_years_of_solitude">Chronicles multiple generations of the Buendía family in the mystical town of Macondo.</string>
+
+    <string name="book_brave_new_world">Brave New World</string>
+    <string name="about_book_brave_new_world">A futuristic society where pleasure and control go hand in hand, at the cost of freedom.</string>
+
+    <string name="book_atomic_habits">Atomic Habits</string>
+    <string name="about_book_atomic_habits">A practical guide on building good habits and breaking bad ones through small changes.</string>
+
+    <string name="book_thinking_fast_and_slow">Thinking Fast and Slow</string>
+    <string name="about_book_thinking_fast_and_slow">Explains how our brain has two thinking systems: one fast and intuitive, the other slow and logical.</string>
+
+    <string name="book_the_power_of_now">The Power of Now</string>
+    <string name="about_book_the_power_of_now">A guide to living in the present moment and achieving inner peace.</string>
+
+    <string name="book_deep_work">Deep Work</string>
+    <string name="about_book_deep_work">Discusses how focused, undistracted work leads to extraordinary success.</string>
+
+    <string name="book_the_subtle_art_of_not_giving_a_f">The Subtle Art of Not Giving a F</string>
+    <string name="about_book_the_subtle_art_of_not_giving_a_f">A refreshing take on self-improvement, teaching how to care about what truly matters.</string>
+
+    <string name="book_how_to_win_friends_and_influence_people">How to Win Friends and Influence People</string>
+    <string name="about_book_how_to_win_friends_and_influence_people">Classic book on improving social skills, networking, and leadership.</string>
+
+    <string name="book_the_seven_habits_of_highly_effective_people">The 7 Habits of Highly Effective People</string>
+    <string name="about_book_the_seven_habits_of_highly_effective_people">A structured approach to personal and professional effectiveness.</string>
+
+    <string name="book_rich_dad_poor_dad">Rich Dad Poor Dad</string>
+    <string name="about_book_rich_dad_poor_dad">Lessons on wealth-building and financial education from two father figures.</string>
+
+    <string name="book_the_psychology_of_money">The Psychology of Money</string>
+    <string name="about_book_the_psychology_of_money">Explains how emotions and habits influence financial decisions.</string>
+
+    <string name="book_the_intelligent_investor">The Intelligent Investor</string>
+    <string name="about_book_the_intelligent_investor">A must-read for investors on value investing and risk management.</string>
+
+    <string name="book_your_money_or_your_life">Your Money or Your Life</string>
+    <string name="about_book_your_money_or_your_life">Teaches a mindful approach to money and achieving financial freedom.</string>
+
+    <string name="book_i_will_teach_you_to_be_rich">I Will Teach You to Be Rich</string>
+    <string name="about_book_i_will_teach_you_to_be_rich">A straightforward, no-nonsense guide to earning, saving, and investing.</string>
+
+    <string name="book_brief_answers_to_the_big_questions">Brief Answers to the Big Questions</string>
+    <string name="about_book_brief_answers_to_the_big_questions">Explores deep scientific and existential questions about the universe.</string>
+
+    <string name="book_sapiens">Sapiens</string>
+    <string name="about_book_sapiens">Traces the journey of humans from ancient times to modern civilization.</string>
+
+    <string name="book_the_code_book">The Code Book</string>
+    <string name="about_book_the_code_book">Covers the history and impact of encryption on war, privacy, and technology.</string>
+
+    <string name="book_a_brief_history_of_time">A Brief History of Time</string>
+    <string name="about_book_a_brief_history_of_time">A simplified yet profound explanation of black holes, time, and the universe.</string>
+
+    <string name="book_clean_code">Clean Code</string>
+    <string name="about_book_clean_code">Teaches best practices for writing efficient and readable code.</string>
+
+    <string name="book_introduction_to_the_theory_of_computation">Introduction to the Theory of Computation</string>
+    <string name="about_book_introduction_to_the_theory_of_computation">A foundational book on algorithms, complexity theory, and automata.</string>
+
+    <string name="book_ikigai">Ikigai</string>
+    <string name="about_book_ikigai">Discusses the Japanese concept of purpose and longevity.</string>
+
+    <string name="book_mans_search_for_meaning">Man’s Search for Meaning</string>
+    <string name="about_book_mans_search_for_meaning">A powerful memoir of surviving the Holocaust and finding meaning in suffering.</string>
+
+<!--    Book summary -->
+
+    <string name="summary_nineteeneightyfour">A dystopian novel about a totalitarian society ruled by Big Brother, where truth is manipulated and individuality is crushed. Winston Smith, a Party member, secretly rebels against the oppressive system, seeking freedom and love, but faces dire consequences in a world where surveillance and propaganda control everything.</string>
+
+    <string name="summary_the_alchemist">This inspirational novel follows Santiago, a shepherd boy who embarks on a journey to find treasure, only to discover that true wealth lies in following one is dreams. Through mystical encounters and personal growth, the story emphasizes the power of destiny, perseverance, and listening to one’s heart.</string>
+
+    <string name="summary_to_kill_a_mockingbird">Set in the racially segregated American South, this novel follows young Scout Finch as her father, Atticus, defends a Black man falsely accused of a crime. Through Scout’s innocent eyes, the story explores themes of justice, morality, and racial prejudice, making it a timeless and powerful classic.</string>
+
+    <string name="summary_the_hobbit">Bilbo Baggins, a simple hobbit, is thrust into an epic adventure with a group of dwarves and the wizard Gandalf to reclaim their homeland from the dragon Smaug. Along the journey, Bilbo discovers courage, cleverness, and an artifact—the One Ring—that will shape the fate of Middle-earth.</string>
+
+    <string name="summary_frankenstein">Victor Frankenstein, an ambitious scientist, creates a living being from dead body parts but is horrified by his monstrous creation. Abandoned and rejected, the creature seeks vengeance, leading to a tragic tale of loneliness, responsibility, and the dangers of unchecked scientific ambition.</string>
+
+    <string name="summary_pride_and_prejudice">Elizabeth Bennet navigates love, society, and self-discovery in this witty romance novel. Her initial prejudice against the wealthy Mr. Darcy turns into admiration as she learns about his true character. A timeless classic that explores class, marriage, and personal growth in 19th-century England.</string>
+
+    <string name="summary_one_hundred_years_of_solitude">The epic tale of the Buendía family spans generations in the mystical town of Macondo. Filled with magical realism, love, war, and destiny, this novel explores the cyclical nature of history and the struggles of a family caught between progress and tradition.</string>
+
+    <string name="summary_brave_new_world">A futuristic society engineered for stability and pleasure masks a deeply controlled world where individuality is sacrificed. When a "Savage" challenges this utopia, he confronts a society addicted to comfort and artificial happiness, raising questions about freedom, identity, and human nature.</string>
+
+    <string name="summary_atomic_habits">A guide to transforming your life by building small, effective habits. James Clear explains the science behind habits, how they form, and how to break bad ones. With practical techniques and real-life examples, this book teaches how to make lasting positive changes through continuous improvement.</string>
+
+    <string name="summary_thinking_fast_and_slow">Daniel Kahneman explains how our brain operates in two modes: fast, intuitive thinking and slow, logical reasoning. He explores cognitive biases, decision-making, and how we often make irrational choices. This book is essential for understanding human behavior, economics, and psychology.</string>
+
+    <string name="summary_the_power_of_now">Eckhart Tolle teaches the importance of living in the present moment, letting go of past regrets and future anxieties. Through mindfulness and self-awareness, he provides practical steps to achieve inner peace and enlightenment, making it a transformative book on spirituality and consciousness.</string>
+
+    <string name="summary_deep_work">This book emphasizes the importance of focused, undistracted work in a world full of distractions. Cal Newport provides strategies to cultivate deep concentration, boost productivity, and achieve meaningful success by mastering the ability to work with intensity and purpose.</string>
+
+    <string name="summary_the_subtle_art_of_not_giving_a_f">A refreshing take on personal development, Mark Manson argues that embracing limitations and choosing what to care about leads to a more fulfilling life. He challenges the conventional self-help narrative, advocating for honesty, resilience, and the acceptance of life’s struggles.</string>
+
+    <string name="summary_how_to_win_friends_and_influence_people">Dale Carnegie’s timeless guide to building strong relationships, improving communication, and persuading others. With practical techniques and real-world examples, this book helps readers develop charm, leadership skills, and the ability to positively influence people in both personal and professional life.</string>
+
+    <string name="summary_the_seven_habits_of_highly_effective_people">Stephen Covey’s framework for personal and professional success revolves around proactive behavior, goal-setting, and effective communication. This book provides practical lessons on leadership, self-discipline, and aligning actions with core values to achieve meaningful success.</string>
+
+    <string name="summary_rich_dad_poor_dad">Robert Kiyosaki contrasts two financial mindsets—his "rich dad" who teaches wealth-building principles, and his "poor dad" who follows conventional financial wisdom. The book challenges traditional views on money, assets, and financial independence, making it a must-read for wealth creation.</string>
+
+    <string name="summary_the_psychology_of_money">Morgan Housel explores how emotions, experiences, and psychology shape financial decisions. Instead of just technical investment advice, the book emphasizes mindset shifts, risk-taking, and long-term wealth-building strategies for financial success.</string>
+
+    <string name="summary_the_intelligent_investor">A classic guide on value investing, written by Benjamin Graham, mentor to Warren Buffett. It teaches principles of intelligent investing, risk management, and market psychology, making it essential for long-term investors.</string>
+
+    <string name="summary_your_money_or_your_life">This book promotes financial independence by changing how we perceive money. It emphasizes mindful spending, tracking expenses, and aligning financial decisions with personal happiness and long-term goals.</string>
+
+    <string name="summary_i_will_teach_you_to_be_rich">A no-nonsense personal finance guide by Ramit Sethi that focuses on automating savings, smart investing, and guilt-free spending. It offers a step-by-step plan for financial success without extreme budgeting.</string>
+
+    <string name="summary_brief_answers_to_the_big_questions">Stephen Hawking explores fundamental questions about the universe, including time travel, black holes, and extraterrestrial life. Written in simple terms, it offers insights into the mysteries of science and existence.</string>
+
+    <string name="summary_sapiens">A sweeping history of humanity, from prehistoric times to the present, exploring how biology, culture, and technology have shaped civilizations. Harari presents thought-provoking insights into human evolution, societies, and the future.</string>
+
+    <string name="summary_the_code_book">A fascinating history of cryptography, from ancient ciphers to modern encryption. Simon Singh explores the impact of codes on war, privacy, and communication, making it an exciting read for tech enthusiasts.</string>
+
+    <string name="summary_a_brief_history_of_time">Stephen Hawking’s classic explains the origins and workings of the universe in an accessible way. Covering black holes, relativity, and time, it introduces complex physics concepts to a general audience.</string>
+
+    <string name="summary_clean_code">A must-read for programmers, this book by Robert C. Martin teaches how to write clean, efficient, and maintainable code. It emphasizes best practices and practical examples for software development.</string>
+
+    <string name="summary_introduction_to_the_theory_of_computation">A fundamental book on computer science concepts, covering automata theory, algorithms, and complexity. Ideal for those studying theoretical computing and mathematical logic.</string>
+
+    <string name="summary_ikigai">Explores the Japanese philosophy of Ikigai, or "reason for being." This book provides insights into living a long, meaningful, and happy life by finding purpose and balance in daily activities.</string>
+
+    <string name="summary_mans_search_for_meaning">A profound memoir by Viktor Frankl, detailing his experiences in Nazi concentration camps. It explores how finding purpose and meaning in suffering can help people survive even the darkest times.</string>
+
+</resources>
