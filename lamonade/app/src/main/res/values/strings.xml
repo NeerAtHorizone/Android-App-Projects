@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">lamonade</string>
+    <string name="lemonTree">नींबू का चयन करने के लिए नींबू के पेड़ को टैप करें</string>
+    <string name="lemon">नींबू को निचोड़ने के लिए उसे टैप करते रहें</string>
+    <string name="glassOfLemoade">इसे पीने के लिए नींबू पानी को टैप करें</string>
+    <string name="emptyGlass">फिर से शुरू करने के लिए खाली गिलास को टैप करें</string>
+</resources>
